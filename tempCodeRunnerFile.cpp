@@ -1,0 +1,1 @@
+cout<<"The size of long int is: "<<sizeof(long int)<<endl;
